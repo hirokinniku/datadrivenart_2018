@@ -10,4 +10,4 @@ Team feedback
 * 野原 恵祐 Keisuke Nohara
 * 山田 響己 Hibiki Yamada
 
-[![dhyānaध्यान](https://youtu.be/vi/8K_cPqQNin8)](https://www.youtube.com/watch?v=8K_cPqQNin8)
+[dhyānaध्यान video](https://youtu.be/vi/8K_cPqQNin8)
